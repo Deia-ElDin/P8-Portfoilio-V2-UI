@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/P8-Portfoilio-V2-UI/static/css/main.3d2f4364.css",
+    "main.js": "/P8-Portfoilio-V2-UI/static/js/main.a153e191.js",
+    "index.html": "/P8-Portfoilio-V2-UI/index.html",
+    "main.3d2f4364.css.map": "/P8-Portfoilio-V2-UI/static/css/main.3d2f4364.css.map",
+    "main.a153e191.js.map": "/P8-Portfoilio-V2-UI/static/js/main.a153e191.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d2f4364.css",
+    "static/js/main.a153e191.js"
+  ]
+}
